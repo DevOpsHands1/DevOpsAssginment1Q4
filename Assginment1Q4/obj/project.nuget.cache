@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vYGP/XVVhGqwuLGQYMe3ozEahQuAGGRyQ14Uk32YVAYx53MN3zzngk9NdAi/+x1ciJ2m5wAfQYw2mttE/jnw0A==",
+  "dgSpecHash": "NHVPT+3q38fka3iPWrFX9FvB6rgcKRaODBat47le+9HbSlzZciSy4NmqXSrnndvv0ZryRnDrCOgvC4JHuT3Mfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Assginment1Q4\\Assginment1Q4\\Assginment1Q4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\USER\\DevOpsAssginment1Q4\\Assginment1Q4\\Assginment1Q4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }
