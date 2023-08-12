@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\bin\Debug\netcoreapp3.1\Assginment1Q4.exe
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\bin\Debug\netcoreapp3.1\Assginment1Q4.deps.json
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\bin\Debug\netcoreapp3.1\Assginment1Q4.runtimeconfig.json
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\bin\Debug\netcoreapp3.1\Assginment1Q4.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\bin\Debug\netcoreapp3.1\Assginment1Q4.dll
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\bin\Debug\netcoreapp3.1\Assginment1Q4.pdb
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\obj\Debug\netcoreapp3.1\Assginment1Q4.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\obj\Debug\netcoreapp3.1\Assginment1Q4.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\obj\Debug\netcoreapp3.1\Assginment1Q4.AssemblyInfo.cs
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\obj\Debug\netcoreapp3.1\Assginment1Q4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\obj\Debug\netcoreapp3.1\Assginment1Q4.dll
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\obj\Debug\netcoreapp3.1\Assginment1Q4.pdb
+C:\Users\USER\source\repos\Assginment1Q4\Assginment1Q4\obj\Debug\netcoreapp3.1\Assginment1Q4.genruntimeconfig.cache
